@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 [<img src="https://cdn.simpleicons.org/42/333333" height="50" width="50">](https://profile.intra.42.fr/users/kdi-noce)
 
 
-[![image search api](<src= "https://cdn.simpleicons.org/42/333333" height="50" width="50">)](https://profile.intra.42.fr/users/kdi-noce)
+[[![image search api](<src= "https://cdn.simpleicons.org/42/333333" height="50" width="50">)](https://profile.intra.42.fr/users/kdi-noce)]
