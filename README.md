@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ## Social media
 * **you can follow me on these social networks**
 
-#0A66C2
+![linkedin](https://user-images.githubusercontent.com/92105776/209479647-74867d6e-e35c-4f3c-a9e3-03d4a8981ddf.svg)
