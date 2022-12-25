@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ## Social media
 * **you can follow me on these social networks**
 <img height="32" width="32" src="https://cdn.simpleicons.org/42" />
-[![42-png](<img height="50" width="50" src="https://cdn.simpleicons.org/42/333333" />)](https://profile.intra.42.fr/users/kdi-noce)
+[<img height="50" width="50" src="https://cdn.simpleicons.org/42/333333" />](https://profile.intra.42.fr/users/kdi-noce)
