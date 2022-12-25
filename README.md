@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ## Social media
 * **you can follow me on these social networks**
 
-<img height="32" width="32" src="https://user-images.githubusercontent.com/92105776/209479647-74867d6e-e35c-4f3c-a9e3-03d4a8981ddf.svg" />
+<img height="32" width="32" src="https://user-images.githubusercontent.com/92105776/209479647-74867d6e-e35c-4f3c-a9e3-03d4a8981ddf.svg" src="https://www.linkedin.com/in/kevin-di-nocera-175779248/"/>
