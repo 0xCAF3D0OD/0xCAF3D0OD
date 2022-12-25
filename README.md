@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 [<img src="https://cdn.simpleicons.org/42/333333" height="50" width="50">](https://profile.intra.42.fr/users/kdi-noce)
 
 
-![image search api](https://user-images.githubusercontent.com/110724391/184472398-c590b47c-e1f2-41f8-87e6-2a1f68e8850d.png)[(Youtube)](https://www.youtube.com/watch?v=3HIr0imLgxM)
+![image search api](https://cdn.simpleicons.org/42/333333)[(Youtube)](https://profile.intra.42.fr/users/kdi-noce)
