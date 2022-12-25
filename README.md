@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 * **you can follow me on these social networks**
 <img height="32" width="32" src="https://cdn.simpleicons.org/42" />
 
-![](<src= "https://cdn.simpleicons.org/42/333333" height="50" width="50">)(https://profile.intra.42.fr/users/kdi-noce)
-
-[<src= "https://cdn.simpleicons.org/42/333333" height="50" width="50">](http://example.com/)
+[<src= "https://cdn.simpleicons.org/42/333333" height="50" width="50">]([http://example.com/](https://profile.intra.42.fr/users/kdi-noce))
