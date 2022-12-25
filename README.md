@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **0xCAF3D0OD/0xCAF3D0OD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 
 
-### Github status:
+## Github status:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-### Mostly used language on Github:
+## Mostly used language on Github:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD)](https://github.com/0xCAF3D0OD/github-readme-stats)
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/langs?time_range=one_year&use_percent=True&group=other&theme=classic)
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/repos?time_range=one_year&group=other&theme=classic)
