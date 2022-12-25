@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 * **you can follow me on these social networks**
 
 [<img src="https://cdn.simpleicons.org/42/333333" height="80" width="80">](https://profile.intra.42.fr/users/kdi-noce)
-[<img src="https://cdn.simpleicons.org/linkedin/333333" height="80" width="80">](https://www.linkedin.com/in/kevin-di-nocera-175779248/)
+     [<img src="https://cdn.simpleicons.org/linkedin/333333" height="80" width="80">](https://www.linkedin.com/in/kevin-di-nocera-175779248/)
