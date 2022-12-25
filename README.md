@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ## Mostly used language on Github:
-[https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io](https://api.githubtrends.io/user/svg/0xCAF3D0OD/langs?time_range=one_year&compact=True&theme=dark)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/langs?time_range=one_year&compact=True&theme=dark)
 
 
