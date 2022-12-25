@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 🙋 **Who am i:** 
 Hi i'm Kevin Di Nocera, i learn different programming langage in 42Lausanne a programming school. I like programming, i want to learn but not alone that'a why i want to share with you my new find with this github.
 
-### 🎓 **what is:** 
+### 🎓 **what is:** 42Lausanne
 42Lausanne is a school that teaches you to code without a teacher. 
   >**How ?!! would you tell me.** It's a secret but with the advent of the internet, information is closer than you think, two clicks and you can find the information that suits you best. That's 42Lausanne, a school that teaches you to search.
   >
