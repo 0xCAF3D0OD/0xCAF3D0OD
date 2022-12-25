@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 ![](<src= "https://cdn.simpleicons.org/42/333333" height="50" width="50">)(https://profile.intra.42.fr/users/kdi-noce)
 
-[<img src="img/myImage.png">](http://example.com/)
+[<src= "https://cdn.simpleicons.org/42/333333" height="50" width="50">](http://example.com/)
