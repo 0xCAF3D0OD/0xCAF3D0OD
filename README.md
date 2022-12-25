@@ -1,4 +1,4 @@
-![Les-Dents-du-Midi-11](https://user-images.githubusercontent.com/92105776/209484264-96761172-8ddf-45f2-8cd7-89bf64130e41.jpg)
+[![48711902222_02d3a83a30_b](https://user-images.githubusercontent.com/92105776/209484375-acc76362-f952-44c9-91e6-275e24b456d5.jpg)
 
 ## Hi there 👋
 
