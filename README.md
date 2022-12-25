@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ## Social media
 * **you can follow me on these social networks**
 <img height="32" width="32" src="https://cdn.simpleicons.org/42" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/42/232F3E" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/42/232F3E" />
