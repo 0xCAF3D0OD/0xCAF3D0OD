@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 🏃 **What i like to do:** I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
