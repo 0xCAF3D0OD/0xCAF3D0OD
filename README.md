@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/langs?time_range=one_year&use_percent=True&group=other&theme=classic)
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/repos?time_range=one_year&group=other&theme=classic)
 
+## Social media
+* **you can follow me on these social networks**
+
+#0A66C2
