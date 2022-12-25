@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ## Mostly used language on Github:
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/langs?time_range=one_year&compact=True&theme=dark)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
 
