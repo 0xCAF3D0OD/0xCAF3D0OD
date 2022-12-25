@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 ## Social media
 * **you can follow me on these social networks**
 
-[<img src="https://cdn.simpleicons.org/42/333333" height="50" width="50">](https://profile.intra.42.fr/users/kdi-noce)
+[<img src="https://cdn.simpleicons.org/42/333333" height="60" width="60">](https://profile.intra.42.fr/users/kdi-noce)
 
