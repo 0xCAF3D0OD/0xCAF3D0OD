@@ -30,11 +30,17 @@ Here are some ideas to get you started:
 ### 🏃 **What i like to do:** 
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
+## Github status:
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>📊 Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+</details>
+<details>	
+  <summary><b>📆 Github Streaks</b></summary>
+
+  <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 </details>
 
