@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </details>
 
 ## Social media
-* **you can follow me on these social networks**
+* **You can follow me on these social networks**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://cdn.simpleicons.org/42/333333" height="50" width="50">](https://profile.intra.42.fr/users/kdi-noce)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
