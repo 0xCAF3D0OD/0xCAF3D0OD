@@ -43,11 +43,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=buefy&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 </details>
 
-## Mostly used language on Github:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD)](https://github.com/0xCAF3D0OD/github-readme-stats)
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/langs?time_range=one_year&use_percent=True&group=other&theme=classic)
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/0xCAF3D0OD/repos?time_range=one_year&group=other&theme=classic)
-
 ## Social media
 * **you can follow me on these social networks**
 
