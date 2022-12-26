@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 ## Social media
 * **you can follow me on these social networks**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://cdn.simpleicons.org/42/333333" height="70" width="70">](https://profile.intra.42.fr/users/kdi-noce)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://cdn.simpleicons.org/42/333333" height="50" width="50">](https://profile.intra.42.fr/users/kdi-noce)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/linkedin/333333" height="70" width="70">](https://www.linkedin.com/in/kevin-di-nocera-175779248/)
+[<img src="https://cdn.simpleicons.org/linkedin/333333" height="50" width="50">](https://www.linkedin.com/in/kevin-di-nocera-175779248/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/instagram/333333" height="70" width="70">](https://www.instagram.com/iamk_3.0/?hl=fr)
+[<img src="https://cdn.simpleicons.org/instagram/333333" height="50" width="50">](https://www.instagram.com/iamk_3.0/?hl=fr)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/twitter/333333" height="70" width="70">](https://twitter.com/KNocera)
+[<img src="https://cdn.simpleicons.org/twitter/333333" height="50" width="50">](https://twitter.com/KNocera)
