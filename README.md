@@ -1,4 +1,4 @@
-![48711902222_02d3a83a30_b](https://user-images.githubusercontent.com/92105776/209484375-acc76362-f952-44c9-91e6-275e24b456d5.jpg)
+
 ![Collage](https://user-images.githubusercontent.com/92105776/209559105-b1a66f8b-001a-44cc-b7b6-4d2193b7d9fb.jpg)
 
 ## Hi there 👋
