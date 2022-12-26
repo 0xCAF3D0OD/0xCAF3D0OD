@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   >
   >But not only that, 42Lausannne is a real hive without queen, all the students bring their stone to the building, the notion of teamwork has never been as present as in this school. Find yourself a group of friends and go on an adventure in the multitude of projects that the school offers.
 >
-ℹ for more information check them website: <https://www.42lausanne.ch/>
+ℹ for more information check them website: `https://www.42lausanne.ch/`
 ### 🏃 **What i like to do:** 
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
