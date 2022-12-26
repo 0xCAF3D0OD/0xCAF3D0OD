@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I was very bad at math
 -->
 ### 🙋 **About me:** 
-* 👨‍💻&nbsp;&nbsp;&nbsp; 42Lausanne Student from switzerland.
-* 💻&nbsp;&nbsp;&nbsp; I'm currently learning:
+* 👨‍💻&nbsp;&nbsp; 42Lausanne Student from switzerland.
+* 💻&nbsp;&nbsp; I'm currently learning:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30">
-* 👤&nbsp;&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you my new find with this github.
+* 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you my new find with this github.
 
 ### 🎓 **what is:** 42Lausanne
 * 🏫&nbsp;&nbsp;&nbsp; 42Lausanne is an informatic school that teaches you to code without teacher.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   >
   >But not only that, 42Lausannne is a real hive without queen, all the students bring their stone to the building, the notion of teamwork has never been as present as in this school. Find yourself a group of friends and go on an adventure in the multitude of projects that the school offers.
 >
-* ℹ&nbsp;&nbsp;&nbsp; For more information check their web page: https://www.42lausanne.ch/
+* ℹ&nbsp;&nbsp; For more information check their web page: https://www.42lausanne.ch/
 ### 🏃 **What i like to do:** 
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
