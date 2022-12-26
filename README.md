@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 * 💻&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30">
-* I like programming, i want to learn more but not alone that'a why i want to share with you my new find with this github.
+* 👤&nbsp;&nbsp;&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you my new find with this github.
 
 ### 🎓 **what is:** 42Lausanne
 * 42Lausanne is an informatic school that teaches you to code without teacher.
