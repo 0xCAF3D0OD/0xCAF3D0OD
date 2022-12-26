@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
 ## Github status:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <details>	
   <summary><b>📊 Github Statistics</b></summary>
   <br />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=0xCAF3D0OD&repo=github-readme-stats"/>
-   [<img src(https://github-readme-stats.vercel.app/api/pin/?username=0xCAF3D0OD&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) />
 </details>
 <details>	
   <summary><b>📆 Github Streaks</b></summary
