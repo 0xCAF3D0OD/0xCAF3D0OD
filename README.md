@@ -34,14 +34,13 @@ Here are some ideas to get you started:
 <details>	
   <summary><b>📊 Github Statistics</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=buefy&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/username=0xCAF3D0OD&repo=github-readme-stats" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=0xCAF3D0OD&repo=github-readme-stats" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD&layout=compact" />
 </details>
 <details>	
   <summary><b>📆 Github Streaks</b></summary
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=buefy&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 </details>
 
 ## Mostly used language on Github:
