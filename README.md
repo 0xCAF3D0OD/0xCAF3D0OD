@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### 🙋 **About me:** 
 * 42Lausanne Student from switzerland.
 * I'm currently learning:
-<img src="https://cdn.simpleicons.org/c/333333" height="20" width="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c++/333333" height="20" width="20">
+<img src="https://cdn.simpleicons.org/c/333333" height="20" width="20">&nbsp;&nbsp;&nbsp<img src="https://cdn.simpleicons.org/c++/333333" height="20" width="20">
 * I like programming, i want to learn more but not alone that'a why i want to share with you my new find with this github.
 
 ### 🎓 **what is:** 42Lausanne
