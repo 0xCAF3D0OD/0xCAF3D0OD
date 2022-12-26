@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I was very bad at math
 -->
 ### 🙋 **About me:** 
-* 👨‍💻&nbsp;&nbsp;42Lausanne Student from switzerland.
-* 💻&nbsp;&nbsp;I'm currently learning:
+* 👨‍💻&nbsp;&nbsp;&nbsp;&nbsp;42Lausanne Student from switzerland.
+* 💻&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30">
 * I like programming, i want to learn more but not alone that'a why i want to share with you my new find with this github.
