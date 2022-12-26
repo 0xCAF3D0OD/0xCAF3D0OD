@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&show_icons=true&theme=dracula" />
 </details>
 
 <details>
