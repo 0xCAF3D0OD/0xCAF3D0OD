@@ -1,5 +1,4 @@
 ![48711902222_02d3a83a30_b](https://user-images.githubusercontent.com/92105776/209484375-acc76362-f952-44c9-91e6-275e24b456d5.jpg)
-![modif](https://user-images.githubusercontent.com/92105776/209551086-b43a40bd-c480-4f56-b957-2778045841a9.jpeg)
 
 ## Hi there 👋
 
@@ -45,3 +44,5 @@ Here are some ideas to get you started:
 [<img src="https://cdn.simpleicons.org/linkedin/333333" height="80" width="80">](https://www.linkedin.com/in/kevin-di-nocera-175779248/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/instagram/333333" height="80" width="80">](https://www.instagram.com/iamk_3.0/?hl=fr)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/twitter/333333" height="80" width="80">](https://twitter.com/KNocera)
