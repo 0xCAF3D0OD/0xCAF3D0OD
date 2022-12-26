@@ -44,20 +44,21 @@ Here are some ideas to get you started:
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+
       </tr>
     </thead>
     <tbody>
       <tr>
 
-## Github status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&show_icons=true&theme=dracula)
+## Github status:     
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</details>
+
 
 ## Mostly used language on Github:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD)](https://github.com/0xCAF3D0OD/github-readme-stats)
