@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <details>	
   <summary><b>📊 Github Statistics</b></summary>
   <br />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=0xCAF3D0OD&repo=github-readme-stats""https://github.com/anuraghazra/github-readme-stats" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=0xCAF3D0OD&repo=github-readme-stats" src= "https://github.com/0xCAF3D0OD/github-readme-stats"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD&layout=compact" />
 </details>
 <details>	
