@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <details>	
   <summary><b>📊 Github Statistics</b></summary>
   <br />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD&layout=compact"/>
 </details>
 <details>	
   <summary><b>📆 Github Streaks</b></summary
