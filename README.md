@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 * 42Lausanne Student from switzerland.
 * I'm currently learning:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/333333" height="30" width="30">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c++/333333" height="30" width="30">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/c.png" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/333333" height="30" width="30">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c++/333333" height="30" width="30">
 * I like programming, i want to learn more but not alone that'a why i want to share with you my new find with this github.
 
 ### 🎓 **what is:** 42Lausanne
