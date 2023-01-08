@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 * 💻&nbsp;&nbsp; I'm currently learning:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30">
-* 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you my new find with this github.
+* 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you what I'm learning through my journey.
 
 ### 🎓 **what is:** 42Lausanne
-* 🏫&nbsp;&nbsp;&nbsp; 42Lausanne is an informatic school that teaches you to code without teacher.
+* 🏫&nbsp;&nbsp;&nbsp; 42Lausanne is a computer science school part of 42 network.
 
-  >**How ?!! would you tell me.** It's a secret but with the advent of the internet, information is closer than you think, two clicks and you can find the information that suits you best. That's 42Lausanne, a school that teaches you to search.
+  >**42 is a future-proof computer science training to educate the next generation of software engineers.** The 42 program takes a project-based approach to progress and is designed to develop technical and people skills that match the expectations of the labor market.
   >
   >But not only that, 42Lausannne is a real hive without queen, all the students bring their stone to the building, the notion of teamwork has never been as present as in this school. Find yourself a group of friends and go on an adventure in the multitude of projects that the school offers.
 >
-* ℹ&nbsp;&nbsp; For more information check their web page: &nbsp;&nbsp;&nbsp;[42lausanne](https://www.42lausanne.ch/)
+* ℹ&nbsp;&nbsp; For more information check &nbsp;&nbsp;&nbsp;[42lausanne](https://www.42lausanne.ch/)
 ### 🏃 **What i like to do:** 
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
