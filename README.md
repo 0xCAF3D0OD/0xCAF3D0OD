@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C and C++
 - ⚡ Fun fact: I was very bad at math
 -->
-### 🙋 **About me:** 
+### 🙋 **About me :** 
 * 👨‍💻&nbsp;&nbsp; 42Lausanne Student from switzerland.
 * 💻&nbsp;&nbsp; I'm currently learning:
 
