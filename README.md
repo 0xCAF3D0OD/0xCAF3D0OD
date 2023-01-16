@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <br />
   <img align="left" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
   <img align="center" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
-  <img align="right" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
+  <img align="center" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&theme=buefy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD&theme=buefy&layout=compact"/>
 </details>
