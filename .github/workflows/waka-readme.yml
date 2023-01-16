@@ -1,9 +1,11 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+# for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+   # runs at every 12AM UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -15,9 +17,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
-          REPOSITORY: < 0xCAF3D0OD/0xCAF3D0OD>          
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # REPOSITORY: <gh_username/gh_username>
+          # REPOSITORY: <0xCAF3D0OD/0xCAF3D0OD>          
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: all_time
