@@ -6,15 +6,14 @@ on:
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["main"]}
-  
-  
+
+
 jobs:
 
 
   github-metrics:
+    permissions: write-all
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest    
         with:
@@ -25,15 +24,15 @@ jobs:
           base: header
           config_timezone: Europe/Zurich
           
-  metrics:
-    permissions:
-      contents: write
-      steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
+#  metrics:
+#    permissions: write-all
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: lowlighter/metrics@latest
+#        with:
+#          output_action: commit
+#          committer_branch: metrics-renders
+#          committer_message: "chore: update metrics"
 
   Repositories_diff_history:
       permissions: write-all
