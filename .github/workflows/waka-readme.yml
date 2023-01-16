@@ -17,4 +17,10 @@ jobs:
           # profile readme, remove the leading `#` to use them
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
-          REPOSITORY: < 0xCAF3D0OD/0xCAF3D0OD>
+          REPOSITORY: < 0xCAF3D0OD/0xCAF3D0OD>          
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+
