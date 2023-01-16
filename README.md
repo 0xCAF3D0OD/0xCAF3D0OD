@@ -30,14 +30,13 @@ Here are some ideas to get you started:
   >**42 is a future-proof computer science training to educate the next generation of software engineers.** The 42 program takes a project-based approach to progress and is designed to develop technical and people skills that match the expectations of the labor market.
   >
   >But not only that, 42Lausannne is a real hive without queen, all the students bring their stone to the building, the notion of teamwork has never been as present as in this school. Find yourself a group of friends and go on an adventure in the multitude of projects that the school offers.
->
+
 * ℹ&nbsp;&nbsp; For more information check &nbsp;&nbsp;&nbsp;[42lausanne](https://www.42lausanne.ch/)
 ### 🏃 **What i like to do:** 
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
 ## Github status:
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 <details>	
   <summary><b>📊 Github Statistics</b></summary>
