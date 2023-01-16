@@ -35,11 +35,3 @@ metrics:
         output_action: commit
         committer_branch: metrics-renders
         committer_message: "chore: update metrics"
-
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
