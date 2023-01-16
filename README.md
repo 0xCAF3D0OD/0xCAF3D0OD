@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 * 👨‍💻&nbsp;&nbsp; 42Lausanne Student from switzerland.
 * 💻&nbsp;&nbsp; I'm currently learning:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
+
+* Working on:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)
 * 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you what I'm learning through my journey.
 
 ### 🎓 **what is:** 42Lausanne
