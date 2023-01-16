@@ -24,15 +24,15 @@ jobs:
           base: header
           config_timezone: Europe/Zurich
           
-#  metrics:
-#    permissions: write-all
-#    runs-on: ubuntu-latest
-#    steps:
-#      - uses: lowlighter/metrics@latest
-#        with:
-#          output_action: commit
-#          committer_branch: metrics-renders
-#          committer_message: "chore: update metrics"
+  metrics:
+     permissions: write-all
+     runs-on: ubuntu-latest
+     steps:
+       - uses: lowlighter/metrics@latest
+         with:
+           output_action: commit
+           committer_branch: metrics-renders
+           committer_message: "chore: update metrics"
 
   Repositories_diff_history:
       permissions: write-all
@@ -47,3 +47,19 @@ jobs:
             plugin_lines_sections: repositories, history
             plugin_lines_repositories_limit: 2
             plugin_lines_history_limit: 1
+            
+  Recent_activity_charts:
+      permissions: write-all
+      runs-on: ubuntu-latest
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.habits.charts.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_habits: yes
+            plugin_habits_facts: no
+            plugin_habits_charts: yes
+            config_timezone: Europe/Zurich
+
+
