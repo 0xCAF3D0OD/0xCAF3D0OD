@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
 
 * Working on:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)
+
 * 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you what I'm learning through my journey.
 
 ### 🎓 **what is:** 42Lausanne
