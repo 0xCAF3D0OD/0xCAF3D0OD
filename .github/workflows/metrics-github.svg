@@ -18,9 +18,13 @@ jobs:
 metrics:
   permissions:
     contents: write
-  steps:
+    steps:
+    - uses: lowlighter/metrics@latest
+      with:
+        config_timezone: Europe/Zurich
     - uses: lowlighter/metrics@latest
       with:
         output_action: commit
         committer_branch: metrics-renders
         committer_message: "chore: update metrics"
+
