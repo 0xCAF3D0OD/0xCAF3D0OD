@@ -15,7 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: <0xCAF3D0OD>/<0xCAF3D0OD>
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: all_time
