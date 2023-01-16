@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
 ## Github status:
-<details>	
+<details>
   <summary><b>📊 Github Statistics</b></summary>
   <br />
   <img align="left" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
+  <img align="center" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
+  <img align="right" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&theme=buefy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD&theme=buefy&layout=compact"/>
 </details>
