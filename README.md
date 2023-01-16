@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
 ## Github status:
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <details>	
   <summary><b>📊 Github Statistics</b></summary>
   <br />
