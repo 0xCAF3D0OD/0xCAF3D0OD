@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
 ## Github status:
-<img align="center" src="./metrics.plugin.lines.history.svg" alt="Metrics" width="400">
+<img align="left" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="400">
 <details>	
   <summary><b>📊 Github Statistics</b></summary>
   <br />
