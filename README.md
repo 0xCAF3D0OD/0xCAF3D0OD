@@ -1,6 +1,7 @@
 
 ![Collage](https://user-images.githubusercontent.com/92105776/209567571-628ecca0-8a9e-478e-a9bb-453ba14f50ad.jpg)
-
+<img align="center" src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
+    <br>
 ## Hi there i'm Kevin 👋
 
 <!--
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
   
   <img align="left" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
     <br>
+  
   <img align="left" src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
     <br>
 
