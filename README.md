@@ -53,7 +53,7 @@
         <br>
         <img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
         <br>  
-        <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="300">
+        <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="350">
       </td>
       <td>
         <sub><em>Default Analysis - Profile Habits chart</em></sub><br>
