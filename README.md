@@ -1,13 +1,27 @@
 
 ![Collage](https://user-images.githubusercontent.com/92105776/209567571-628ecca0-8a9e-478e-a9bb-453ba14f50ad.jpg)
 
+<details>
+  <summary><b>🚀 Page speed</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th align="center">speed charts</th>
+    </tr>
+    <tr>
+      <td align="center">
+      <img src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
+    </tr>
+  </table>
+</details>
+
 <!-- <details>
     <summary><b>🚀 Page speed</b></summary>
  <br />
 
     <table>
         <tr>
-            <th align="center">For user accounts</th>
+            <th align="center">For visitor </th>
         </tr>
         <tr>
             <td align="center">
@@ -51,10 +65,6 @@
   <br />
   <table>
   <tr>
-    <th align="center">For line historic</th>
-    <th align="center">For habit chart</th>
-  </tr>
-  <tr>
     <td align="center">
 <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
 </td>
@@ -63,6 +73,23 @@
 </td>
 
 </details> -->
+<details>
+  <summary><b>📊 Github Statistics</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th align="center">For line historic</th>
+      <th align="center">For habit chart</th>
+    </tr>
+    <tr>
+      <td align="center">
+      <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
+      <td align="center">
+      <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
+    </tr>
+  </table>
+</details>
+
 <details>	
   <summary><b>📆 Github Streaks</b></summary
   <br />
