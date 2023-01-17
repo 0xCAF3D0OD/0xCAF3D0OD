@@ -39,40 +39,37 @@
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
 ## Github status:
-<!-- <details>
-  <summary><b>📊 Github Statistics</b></summary>
-  <br />
-  <table>
-  <tr>
-    <td align="center">
-<img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
-</td>
-<td align="center">
- <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
-</td>
 
-</details> -->
 <details>
   <summary><b>📊 Github Statistics</b></summary>
   <br />
+  
   <table>
+    <col style="width: 50%;">
+    <col style="width: 50%;">
     <tr>
-      <th align="center">lines historic</th>
-      <th align="center">habits chart</th>
-      <th align="center">working time chart</th>
-      <th align="center">language chart</th>
+      <td>
+        <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="300"></td>
+      <td>
+        <sub><em>Default Analysis - Profile Habits chart</em></sub><br>
+        <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
+        <br>
+        <hr style="height: 2px;">
+        <sub><em>Default Analysis - Wakatime</em></sub><br>
+        <img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="300">
+        <br>
+        <hr style="height: 10%;">
+        <sub><em>Default Analysis - langage indepth</em></sub><br>
+        <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="300">    
+      </td>
     </tr>
     <tr>
-      <td align="center">
-      <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="300">
-      <td align="center">
-      <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
-      <td align="center">
-      <img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="300">
-      <td align="center">
-      <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="300">  
+        <td colspan="2" align="right">
+          <sup>Profile Analysis & Language Activity. Generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sup>
+        </td>
     </tr>
   </table>
+
 </details>
 
 <details>	
