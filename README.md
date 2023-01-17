@@ -1,7 +1,7 @@
 
 ![Collage](https://user-images.githubusercontent.com/92105776/209567571-628ecca0-8a9e-478e-a9bb-453ba14f50ad.jpg)
 
-<details>
+<!-- <details>
     <summary><b>🚀 Page speed</b></summary>
  <br />
 
@@ -17,7 +17,7 @@
 
 </details>
 
-
+ -->
 
 ## Hi there i'm Kevin 👋
 
@@ -46,15 +46,23 @@
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
 ## Github status:
-<details>
+<!-- <details>
   <summary><b>📊 Github Statistics</b></summary>
   <br />
-  
-  <img align="left" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
-  
-  <img align="left" src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
+  <table>
+  <tr>
+    <th align="center">For line historic</th>
+    <th align="center">For habit chart</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
+</td>
+<td align="center">
+ <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
+</td>
 
-</details>
+</details> -->
 <details>	
   <summary><b>📆 Github Streaks</b></summary
   <br />
