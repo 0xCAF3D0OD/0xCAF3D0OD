@@ -97,7 +97,7 @@
 <details>
   <summary><b>have fun 🖖 !!</b></summary>
   <br />
-    <div style="text-align: center;">
-       <img src="https://random-memer-production-8593.up.railway.app/" title="Meme" alt="Please refresh the page if the meme doesn't show up." width="200">
-    </div>
+    <p align="center">
+       <img src="https://random-memer-production-8593.up.railway.app/" title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400">
+    </p>
 </details>
