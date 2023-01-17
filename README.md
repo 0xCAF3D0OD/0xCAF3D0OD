@@ -101,5 +101,3 @@
        <img src="https://random-memer-production-8593.up.railway.app/" title="Meme" alt="Please refresh the page if the meme doesn't show up." width="200">
     </div>
 </details>
-  
-
