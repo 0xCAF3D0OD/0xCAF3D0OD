@@ -1,18 +1,27 @@
 
 ![Collage](https://user-images.githubusercontent.com/92105776/209567571-628ecca0-8a9e-478e-a9bb-453ba14f50ad.jpg)
 
+<details>
+    <summary><b>🚀 Page speed</b></summary>
+ <br />
+
+    <table>
+        <tr>
+            <th align="center">For user accounts</th>
+        </tr>
+        <tr>
+            <td align="center">
+        <img src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
+        </td>  
+        </tr>
+
+</details>
+
+
+
 ## Hi there i'm Kevin 👋
-<img align="right" src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
-    <br>
-<!--
-**0xCAF3D0OD/0xCAF3D0OD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on little project for the 42 school in Lausanne
-- 🌱 I’m currently learning C and C++
-- ⚡ Fun fact: I was very bad at math
--->
+    
 ### 🙋 **About me :** 
 * 👨‍💻&nbsp;&nbsp; 42Lausanne Student from switzerland.
 * 💻&nbsp;&nbsp; I'm currently learning:
@@ -42,13 +51,8 @@ Here are some ideas to get you started:
   <br />
   
   <img align="left" src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
-    <br>
   
   <img align="left" src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
-    <br>
-
-  <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xCAF3D0OD&theme=buefy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAF3D0OD&theme=buefy&layout=compact"/> -->
 
 </details>
 <details>	
@@ -67,3 +71,4 @@ Here are some ideas to get you started:
 [<img src="https://cdn.simpleicons.org/instagram/333333" height="50" width="50">](https://www.instagram.com/iamk_3.0/?hl=fr)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/twitter/333333" height="50" width="50">](https://twitter.com/KNocera)
+
