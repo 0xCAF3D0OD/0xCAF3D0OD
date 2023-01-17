@@ -103,7 +103,8 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
+          plugin_languages_limit: 6
+          plugin_languages_colors: 0:blue, 1:green, 2:yellow, 3:orange, 4:red, 5:purple
 
   
 #       - name: Most used
