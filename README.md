@@ -49,18 +49,18 @@
     <col style="width: 50%;">
     <tr>
       <td>
-        <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="300"></td>
+        <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="400"></td>
       <td>
         <sub><em>Default Analysis - Profile Habits chart</em></sub><br>
-        <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
+        <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="400">
         <br>
-        <hr style="height: 2px;">
+        <hr style="height: 1px;">
         <sub><em>Default Analysis - Wakatime</em></sub><br>
-        <img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="300">
+        <img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="400">
         <br>
         <hr style="height: 10%;">
         <sub><em>Default Analysis - langage indepth</em></sub><br>
-        <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="300">    
+        <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="400">    
       </td>
     </tr>
     <tr>
