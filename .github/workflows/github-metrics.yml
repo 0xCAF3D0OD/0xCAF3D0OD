@@ -22,7 +22,15 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Zurich     
-          
+
+      - name: metrics classic
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+
 #       - name: Metrics
 #         uses: lowlighter/metrics@latest
 #         with:
