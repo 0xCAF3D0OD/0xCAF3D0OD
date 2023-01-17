@@ -60,6 +60,7 @@
       <th align="center">lines historic</th>
       <th align="center">habits chart</th>
       <th align="center">working time chart</th>
+      <th align="center">language chart</th>
     </tr>
     <tr>
       <td align="center">
@@ -67,7 +68,9 @@
       <td align="center">
       <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
       <td align="center">
-      <img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="300">  
+      <img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="300">
+      <td align="center">
+      <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="300">  
     </tr>
   </table>
 </details>
