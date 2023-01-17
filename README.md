@@ -65,7 +65,7 @@
         <br>
         <hr style="height: 10%;">
         <sub><em>Default Analysis - langage indepth</em></sub><br>
-        <img src="/metrics.plugin.languages.svg" alt="Metrics" width="400">    
+        <img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">    
       </td>
     </tr>
     <tr>
