@@ -95,7 +95,7 @@
 [<img src="https://cdn.simpleicons.org/twitter/333333" height="50" width="50">](https://twitter.com/KNocera)
 
 <details>
-  <summary><b>have fun 🖖 !!</b></summary>
+  <summary><b>have fun with a last little meme 🖖 !!</b></summary>
   <br />
     <p align="center">
        <img src="https://random-memer-production-8593.up.railway.app/" title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400">
