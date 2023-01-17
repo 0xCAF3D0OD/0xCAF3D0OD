@@ -49,8 +49,10 @@
     <col style="width: 50%;">
     <tr>
       <td>
-        <img src="/metrics.classic.svg" alt="Metrics" width="400"></td>
-        <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="400"></td>
+        <img src="/metrics.classic.svg" alt="Metrics" width="400">
+        <br>  
+        <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="400">
+      </td>
       <td>
         <sub><em>Default Analysis - Profile Habits chart</em></sub><br>
         <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="400">
