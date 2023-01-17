@@ -6,9 +6,6 @@
   <br />
   <table>
     <tr>
-      <th align="center">speed charts</th>
-    </tr>
-    <tr>
       <td align="center">
       <img src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
     </tr>
