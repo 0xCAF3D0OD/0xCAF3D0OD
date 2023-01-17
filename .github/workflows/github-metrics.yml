@@ -23,13 +23,13 @@ jobs:
           base: header
           config_timezone: Europe/Zurich     
           
-      - name: Metrics
-        uses: lowlighter/metrics@latest
-        with:
-           token: ${{ secrets.METRICS_TOKEN }}
-           output_action: commit
-           committer_branch: metrics-renders
-           committer_message: "chore: update metrics"
+#       - name: Metrics
+#         uses: lowlighter/metrics@latest
+#         with:
+#            token: ${{ secrets.METRICS_TOKEN }}
+#            output_action: commit
+#            committer_branch: metrics-renders
+#            committer_message: "chore: update metrics"
 
       - name: Repositories diff history
         uses: lowlighter/metrics@latest
