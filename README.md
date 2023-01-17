@@ -15,24 +15,6 @@
   </table>
 </details>
 
-<!-- <details>
-    <summary><b>🚀 Page speed</b></summary>
- <br />
-
-    <table>
-        <tr>
-            <th align="center">For visitor </th>
-        </tr>
-        <tr>
-            <td align="center">
-        <img src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
-        </td>  
-        </tr>
-
-</details>
-
- -->
-
 ## Hi there i'm Kevin 👋
 
     
@@ -78,14 +60,17 @@
   <br />
   <table>
     <tr>
-      <th align="center">For line historic</th>
-      <th align="center">For habit chart</th>
+      <th align="center">lines historic</th>
+      <th align="center">habits chart</th>
+      <th align="center">working time chart</th>
     </tr>
     <tr>
       <td align="center">
-      <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="250">
+      <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="300">
       <td align="center">
       <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="300">
+      <td align="center">
+      <img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="300">  
     </tr>
   </table>
 </details>
