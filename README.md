@@ -1,6 +1,6 @@
 
 ![Collage](https://user-images.githubusercontent.com/92105776/209567571-628ecca0-8a9e-478e-a9bb-453ba14f50ad.jpg)
-<img align="center" src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
+<img align="right" src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
     <br>
 ## Hi there i'm Kevin 👋
 
