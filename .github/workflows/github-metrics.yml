@@ -20,7 +20,7 @@ jobs:
           # Options
           user: 0xCAF3D0OD
           template: classic
-          base: header
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Zurich     
           
 #       - name: Metrics
