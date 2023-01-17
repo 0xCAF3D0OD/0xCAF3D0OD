@@ -69,6 +69,7 @@ jobs:
             plugin_habits_charts: yes
             config_timezone: Europe/Zurich
             plugin_habits_from: 200
+            plugin_habits_charts_type: classic
             
       - name: Detailed report
         uses: lowlighter/metrics@latest
