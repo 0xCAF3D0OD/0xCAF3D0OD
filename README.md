@@ -37,7 +37,7 @@
     <col style="width: 50%;">
     <col style="width: 50%;">
     <tr>
-      <td>
+      <td VALIGN="TOP">
         <img src="/metrics.classic.svg" alt="Metrics" width="400">
         <br>
         <img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
