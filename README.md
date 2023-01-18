@@ -1,18 +1,5 @@
 
 ![Collage](https://user-images.githubusercontent.com/92105776/209567571-628ecca0-8a9e-478e-a9bb-453ba14f50ad.jpg)
-![items](https://img.shields.io/github/watchers/0xCAF3D0OD/0xCAF3D0OD.svg)
-![items](https://img.shields.io/github/stars/0xCAF3D0OD/0xCAF3D0OD.svg)
-![items](https://img.shields.io/github/commits-since/0xCAF3D0OD/0xCAF3D0OD/{version}.svg)
-<details>
-  <summary><b>🚀 Page speed</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td align="center">
-      <img src="/metrics.plugin.pagespeed.detailed.svg" alt="Metrics" width="300">
-    </tr>
-  </table>
-</details>
 
 ## Hi there i'm Kevin 👋
 
