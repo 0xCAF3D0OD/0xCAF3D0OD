@@ -8,11 +8,11 @@
 * 👨‍💻&nbsp;&nbsp; 42Lausanne Student from switzerland.
 * 💻&nbsp;&nbsp; I'm currently learning:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)
 
 * Working on:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=vim,vscode)
 
 * 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you what I'm learning through my journey.
 
