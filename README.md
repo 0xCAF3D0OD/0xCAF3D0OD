@@ -29,7 +29,7 @@
 
 ## Github status:
 
-<details>
+<!-- <details>
   <summary><b>📊 Github Statistics</b></summary>
   <br />
   
@@ -63,7 +63,7 @@
   </table>
 
 </details>
-
+ -->
 <details>	
   <summary><b>📆 Github Streaks</b></summary
   <br />
