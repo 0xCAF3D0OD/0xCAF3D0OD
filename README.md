@@ -8,7 +8,11 @@
 * 👨‍💻&nbsp;&nbsp; 42Lausanne Student from switzerland.
 * 💻&nbsp;&nbsp; I'm currently learning:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=cs,typescript,javascript,python)
+
+* I master
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=c,cpp)
 
 * Working on:
 
