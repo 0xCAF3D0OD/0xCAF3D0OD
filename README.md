@@ -81,4 +81,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/linkedin/333333" height="50" width="50">](https://www.linkedin.com/in/kevin-di-nocera-175779248/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/twitter/333333" height="50" width="50">](https://twitter.com/KNocera)
+[<img src="https://cdn.simpleicons.org/x/333333" height="50" width="50">](https://twitter.com/KNocera)
