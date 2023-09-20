@@ -1,5 +1,8 @@
 #include <unistd.h>
+#include <sys/types.h>
+#include <sys/uio.h>
 #include <stdio.h>
+
 int ft_strlen(char* str) {
 	int len = 0;
 	for (int i = 0; str[i]; i++)
@@ -7,9 +10,10 @@ int ft_strlen(char* str) {
 	printf("len = %d\n", len);
 	return (len);
 }
+
 char *get_next_line(int fd) {
 	char *string;
-
+	read(int fildes, void *buf, size_t nbyte);
 
 	return (string);
 }
