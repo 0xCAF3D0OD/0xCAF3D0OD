@@ -8,7 +8,7 @@
 * 👨‍💻&nbsp;&nbsp; 42Lausanne Student from switzerland.
 * 💻&nbsp;&nbsp; I'm currently learning:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=cs,typescript,javascript,java,react,python)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=typescript,javascript,java,react,python)
 
 * I master
 
@@ -16,7 +16,15 @@
 
 * Working on:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=vim,vscode)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=vim,vscode,idea)
+
+* Working with:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=stackoverflow,docker,git)
+
+* webdesign tool for my projects pages
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=figma)
 
 * 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you what I'm learning through my journey.
 
