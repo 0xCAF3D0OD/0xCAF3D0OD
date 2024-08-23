@@ -1,5 +1,5 @@
 
-![Collage](https://user-images.githubusercontent.com/92105776/209567571-628ecca0-8a9e-478e-a9bb-453ba14f50ad.jpg)
+![Collage](img/wallpaper.png)
 
 ## Hi there i'm Kevin 👋
 
