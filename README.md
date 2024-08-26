@@ -59,10 +59,6 @@
     </table> 
 
 
-* Working on:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=vscode,clion,idea)
-
 * Working with:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=stackoverflow,docker,git,ansible)
