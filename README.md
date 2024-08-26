@@ -5,7 +5,7 @@
 
     
 ### 🙋 **About me :** 
-* 👨‍💻&nbsp;&nbsp; 42Lausanne Student from switzerland.
+* 👨‍💻&nbsp;&nbsp; 42Lausanne Student from Switzerland.
 * 💻&nbsp;&nbsp; I'm currently learning:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=java,python,ansible,spring)
