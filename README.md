@@ -128,6 +128,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://cdn.simpleicons.org/42/333333" height="57" width="57">](https://profile.intra.42.fr/users/kdi-noce)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/linkedin/333333" height="50" width="50">](https://www.linkedin.com/in/kevin-di-nocera-175779248/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/x/333333" height="50" width="50">](https://twitter.com/KNocera)
+[<img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50">](https://www.linkedin.com/in/kevin-di-nocera-175779248/)
