@@ -7,65 +7,15 @@
 ### 🙋 **About me :** 
 * 👨‍💻&nbsp;&nbsp; 42Lausanne Student from Switzerland.
 * 💻&nbsp;&nbsp; I'm currently learning:
+  
+    ![My Skills](https://skillicons.dev/icons?i=java,ansible,spring)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=java,python,ansible,spring)
-
-* ##### I master 💾
-    <table>
-        <tr> 
-            <th>
-                Languages & Frameworks
-            </th>
-        </tr>
-        <tr> 
-            <td>Programming Languages</td> 
-            <td>
-                <a href="https://www.example.com"> 
-                    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,php" alt="Mon Logo"> 
-                </a> 
-            </td> 
-        </tr>
-        <tr> 
-            <td>Frameworks</td> 
-            <td>
-                <a href="https://www.example.com"> 
-                    <img src="https://skillicons.dev/icons?i=react,vue" alt="Mon Logo"> 
-                </a> 
-            </td> 
-        </tr>
-    </table>
-    <table>
-        <tr> 
-            <th>
-                Tools & Utilities
-            </th>
-        </tr>
-        <tr> 
-            <td>Development Tools</td> 
-            <td>
-                <a href="https://www.example.com"> 
-                    <img src="https://skillicons.dev/icons?i=vscode,clion,idea,phpstorm,vim" alt="Mon Logo"> 
-                </a> 
-            </td> 
-        </tr>
-        <tr> 
-            <td>System Utilities</td> 
-            <td>
-                <a href="https://www.example.com"> 
-                    <img src="https://skillicons.dev/icons?i=bash,powershell" alt="Mon Logo"> 
-                </a> 
-            </td> 
-        </tr>
-    </table> 
+* ##### Main tech stack 💾
+    ![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,python,terraform,react,vue&perline=5)
 
 
-* Working with:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=stackoverflow,docker,git,ansible)
-
-* webdesign tool for my projects pages
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=figma)
+* #### Tools & platforms:
+    ![My Skills](https://skillicons.dev/icons?i=docker,git,aws,azure,nodejs,terraform,figma&perline=5)
 
 * 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you what I'm learning through my journey.
 
