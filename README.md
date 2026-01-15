@@ -30,49 +30,6 @@
 ### 🏃 **What i like to do:** 
 * I like to do sports, I find it liberates the mind. As for computer science, it allows us to create interactions with others, to surpass ourselves, to find new challenges.
 
-## Github status:
-
-<!-- <details>
-  <summary><b>📊 Github Statistics</b></summary>
-  <br />
-  
-  <table>
-    <col style="width: 50%;">
-    <col style="width: 50%;">
-    <tr>
-      <td VALIGN="TOP">
-        <img src="/metrics.classic.svg" alt="Metrics" width="400">
-        <br>
-        <img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
-      </td>
-      <td>
-        <sub><em>Default Analysis - Profile Habits chart</em></sub><br>
-        <img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="400">
-        <br>
-        <hr style="height: 1px;">
-        <sub><em>Default Analysis - Wakatime</em></sub><br>
-        <img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="400">
-        <br>
-        <hr style="height: 10%;">
-        <sub><em>Default Analysis - langage indepth</em></sub><br>
-        <img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">    
-      </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="right">
-          <sup>Profile Analysis & Language Activity. Generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sup>
-        </td>
-    </tr>
-  </table>
-
-</details>
- -->
-<details>	
-  <summary><b>📆 Github Streaks</b></summary
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xCAF3D0OD&theme=buefy&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-</details>
-
 ## Social media
 * **You can follow me on these social networks**
 
