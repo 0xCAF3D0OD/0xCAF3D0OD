@@ -15,7 +15,7 @@
 
 
 * #### Tools & platforms:
-    ![My Skills](https://skillicons.dev/icons?i=docker,git,aws,azure,nodejs,terraform,figma&perline=5)
+    ![My Skills](https://skillicons.dev/icons?i=docker,git,aws,azure,terraform,ansible&perline=5)
 
 * 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you what I'm learning through my journey.
 
