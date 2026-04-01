@@ -1,23 +1,45 @@
 
 ![Collage](img/wallpaper.png)
 
-## Hi there i'm Kevin 👋
+## Hi there, I'm Kevin 👋
 
-    
-### 🙋 **About me :** 
-* 👨‍💻&nbsp;&nbsp; 42Lausanne Student from Switzerland.
-* 💻&nbsp;&nbsp; I'm currently learning:
-  
-    ![My Skills](https://skillicons.dev/icons?i=java,ansible,spring)
+### 🙋 **About me**
+* 42Lausanne student from Switzerland  
+* Platform Engineer & DevOps enthusiast — building infrastructure that scales
 
-* ##### Main tech stack 💾
-    ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,terraform&perline=5)
+---
 
+### **Core Infrastructure Skills**
+![Infrastructure](https://skillicons.dev/icons?i=terraform,ansible&perline=5)  
+Terraform • Ansible • Infrastructure as Code
 
-* #### Tools & platforms:
-    ![My Skills](https://skillicons.dev/icons?i=docker,git,aws,azure,terraform,ansible&perline=5)
+### **Containerization & Orchestration**
+![Containers](https://skillicons.dev/icons?i=docker,kubernetes&perline=5)  
+Docker • Kubernetes • K3s
 
-* 👤&nbsp;&nbsp;I like programming, i want to learn more but not alone that'a why i want to share with you what I'm learning through my journey.
+### **Cloud Platforms**
+![Cloud](https://skillicons.dev/icons?i=aws,azure&perline=5)  
+AWS (Lambda, EC2, IAM, DynamoDB, etc.) • Azure (VMs)
+
+### **Automation & CI/CD**
+![CI/CD](https://skillicons.dev/icons?i=git&perline=5)  
+GitHub Actions • GitLab CI/CD • Git
+
+### **Languages & Scripting**
+![Languages](https://skillicons.dev/icons?i=python,javascript,typescript&perline=5)  
+Python • JavaScript/TypeScript • Bash
+
+---
+
+### 🔨 **Currently Working On**
+* **[EduChat](https://github.com/0xCAF3D0OD/EduChat)** — Full-stack app (Vue.js frontend, FastAPI backend) migrating from Docker Compose → Kubernetes
+* **[ansible-azure](https://github.com/0xCAF3D0OD/ansible-azure)** — Terraform + Ansible deployment on Azure
+* **[Inception-of-Things](https://github.com/0xCAF3D0OD/IoT-Vagrant-K3s)** — K3s cluster management with Vagrant & VirtualBox
+
+---
+
+### 🎯 **What Drives Me**
+I like building, learning in the open, and sharing what I discover. Not alone — alongside people who care about infrastructure, automation, and doing things right.
 
 ### 🎓 **what is:** 42Lausanne
 * 🏫&nbsp;&nbsp;&nbsp; 42Lausanne is a computer science school part of 42 network.
