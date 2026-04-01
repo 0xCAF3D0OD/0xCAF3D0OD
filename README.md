@@ -11,7 +11,7 @@
     ![My Skills](https://skillicons.dev/icons?i=java,ansible,spring)
 
 * ##### Main tech stack 💾
-    ![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,python,terraform,react,vue&perline=5)
+    ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,terraform&perline=5)
 
 
 * #### Tools & platforms:
