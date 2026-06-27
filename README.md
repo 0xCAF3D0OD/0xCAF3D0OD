@@ -37,9 +37,8 @@ Python • JavaScript/TypeScript • Bash
 
 ### 🔨 **Currently Working On**
 * **[EduChat](https://github.com/0xCAF3D0OD/EduChat)** — Full-stack app (Vue.js frontend, FastAPI backend) migrating from Docker Compose → Kubernetes
-* **[ansible-azure](https://github.com/0xCAF3D0OD/ansible-azure)** — Terraform + Ansible deployment on Azure
-* **[Inception-of-Things](https://github.com/0xCAF3D0OD/IoT-Vagrant-K3s)** — K3s cluster management with Vagrant & VirtualBox
-
+* **[Esp32-monitoring](https://github.com/0xCAF3D0OD/Esp32-monitoring)** — Prometheus + grafana, monitoring and observability on Heltec 32 loRA V3 meshtastic devices
+* **[WinXPortfolio](https://github.com/0xCAF3D0OD/WinXPortfolio)** - Vibe coded portofolio Website, mocking Windows XP design and applications
 ---
 
 ### 🎯 **What Drives Me**
