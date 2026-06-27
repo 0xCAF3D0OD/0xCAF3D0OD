@@ -21,6 +21,10 @@ Docker • Kubernetes • K3s
 ![Cloud](https://skillicons.dev/icons?i=aws,azure&perline=5)  
 AWS (Lambda, EC2, IAM, DynamoDB, etc.) • Azure (VMs)
 
+### **monitoring and observability**
+![CI/CD](https://skillicons.dev/icons?i=prometheus,grafana&perline=5)  
+Prometheus • Grafana
+
 ### **Automation & CI/CD**
 ![CI/CD](https://skillicons.dev/icons?i=git&perline=5)  
 GitHub Actions • GitLab CI/CD • Git
